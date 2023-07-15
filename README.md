@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:(https://github.com/karam-7/todo-app)
-- Live Site URL:(https://karam-7.github.io/todo-app/)
+- Solution URL:(https://github.com/karam-7/job-listings)
+- Live Site URL:(https://karam-7.github.io/job-listings/)
 
 ## My process
 
