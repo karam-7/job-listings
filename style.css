@@ -187,7 +187,7 @@ header {
     margin-right: 6px;
 }
 
-.profile-info h3 {
+.profile-info h1 {
     color: var(--Very-Dark-Grayish-Cyan);
     cursor: pointer;
 }
@@ -256,8 +256,8 @@ header {
         border-bottom: 1px solid var(--pri-dark-cyan);
     }
 
-    .profile-info h3:active,
-    .profile-info h3:hover {
+    .profile-info h1:active,
+    .profile-info h1:hover {
         color: var(--pri-dark-cyan);
     }
 

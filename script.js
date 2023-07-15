@@ -26,12 +26,12 @@ async function getData() {
       <div class="profile">
         <img src="${logo}" alt="image" class="profile-img">
         <div class="profile-info">
-          <div class="row flex" id="rowTxts">
+          <div class="row flex">
             <p class="name">${company}</p>
             <p class="tag blue">${recent ? 'New!' : ''}</p>
             <p class="tag black">${featured ? 'Featured' : ''}</p>
           </div>
-          <h3>${position}</h3>
+          <h1>${position}</h1>
           <div class="row">
             <small>${postedAt} <span>.</span></small>
             <small>${contract} <span>.</span></small>
